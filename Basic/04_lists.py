@@ -1,4 +1,7 @@
 # Lists
+'''
+  List: is a collection which is ordered and changeable(modifiable). Allows duplicate members.
+'''
 # How to create a list
 lst = list()
 
